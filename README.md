@@ -10,6 +10,9 @@
 - JavaScript
 - HTML
 - CSS
+- Java
+- PHP
+- C
 
 ---
 
