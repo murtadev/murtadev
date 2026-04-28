@@ -14,7 +14,8 @@
 ---
 
 ## 📌 Projetos
-🔹 Em breve adicionando projetos práticos aqui...
+🔹Identificador de números pares e ímpares.
+🔹 Em breve adicionando mais projetos práticos aqui...
 
 ---
 
