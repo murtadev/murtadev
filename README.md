@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,pyton,html,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git" />
 </p>
 
 ---
@@ -47,9 +47,8 @@
 ## 📫 Conecte-se comigo
 
 <p align="center">
-  </a>
-  <a href="#">
-    <img src="https://https://www.linkedin.com/in/gustavo-murta-927759243/img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/gustavo-murta-927759243/">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
