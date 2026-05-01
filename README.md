@@ -49,7 +49,7 @@
 <p align="center">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+    <img src="https://https://www.linkedin.com/in/gustavo-murta-927759243/img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
