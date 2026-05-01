@@ -16,9 +16,7 @@
 
 ---
 
-## 🐍 Contribuições
-
-![snake](https://raw.githubusercontent.com/murtadev/murtadev/output/snake.svg)
+![snake](https://raw.githubusercontent.com/murtadev/murtadev/output/github-contribution-grid-snake.svg)
 
 ---
 
