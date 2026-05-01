@@ -18,7 +18,7 @@
 
 ## 🐍 Contribuições
 
-![snake](https://github.com/murtadev/murtadev/blob/output/snake.svg)
+![snake](https://raw.githubusercontent.com/murtadev/murtadev/output/snake.svg)
 
 ---
 
