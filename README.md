@@ -16,12 +16,9 @@
 
 ---
 
-## 📊 Estatísticas
+## 🐍 Contribuições
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murtadev&show_icons=true&theme=dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtadev&layout=compact&theme=dark"/>
-</p>
+![snake](https://github.com/murtadev/murtadev/blob/output/snake.svg)
 
 ---
 
